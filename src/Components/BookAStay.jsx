@@ -6,7 +6,9 @@ function BookAStay (){
   return (
       <div>
           <h1>Book your Stay</h1>
-          <button href="https://www.airbnb.com/h/selflaxhomes-esperilla">La Esperilla</button>
+          <a href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer">
+            <button>La Esperilla</button>
+          </a>
       </div>
   )
 
