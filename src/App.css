@@ -6,13 +6,23 @@
   text-align: center;
 }
 
-.navBar ul {
-  /* float: left; */
-  list-style-type: none;
+
+.navBar{
+
 }
+
+ul {
+  list-style-type: none;  
+}
+/* 
+li{
+  float: left;
+} */
 
 a {
   text-decoration: none;
+  padding: 10px; 
+  float: left;
 }
 
 /* ul {

@@ -12,7 +12,7 @@ import { Link, Route, Routes, NavLink } from 'react-router-dom'
 function App() {
   return (
     <div className="App">
-      <img className="logoImage" src={logo} alt="Logo" width="300" height="270" />
+      <img className="logoImage" src={logo} alt="SelflaxHomes-Logo" width="300" height="270" />
       <nav className="navBar">
         <ul>
           <li>
