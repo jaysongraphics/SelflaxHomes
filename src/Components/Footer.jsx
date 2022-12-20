@@ -1,14 +1,14 @@
 import React from 'react';
 
 
-function Images (){
+function Footer (){
   return (
       <div>
-          <h1>Images</h1>
+          <h1>Footer</h1>
       </div>
   )
 
 };
 
 
-export default Images;
+export default Footer;

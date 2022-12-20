@@ -6,6 +6,11 @@
   padding: 10px; 
 }
 
+.home {
+  margin-left: 270px;
+  float: left;
+}
+
 .navBar{
   margin: 0 auto;
   display: flex; 
