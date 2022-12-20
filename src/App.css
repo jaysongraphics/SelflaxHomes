@@ -3,31 +3,23 @@
 }
 
 .logoImage{
-  text-align: center;
+  padding: 10px; 
 }
 
-
 .navBar{
-
+  margin: 0 auto;
+  display: flex; 
+  justify-content: center;
 }
 
 ul {
   list-style-type: none;  
 }
-/* 
-li{
-  float: left;
-} */
 
-a {
-  text-decoration: none;
-  padding: 10px; 
+li {
+  margin-left: 10px;
   float: left;
 }
-
-/* ul {
-  list-style-type: none;
-} */  
 
 
 
