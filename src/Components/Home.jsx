@@ -22,7 +22,7 @@ function Home (){
           <p>¡Bienvenido a SelflaxHomes! Nos complace recibirlo y asegurarnos de que su estadía sea cómoda y memorable. Nuestro equipo está dedicado a hacer que su tiempo con nosotros sea excepcional. Gracias por elegirnos como su hogar lejos del hogar. ¡Esperamos darle la bienvenida y hacer que su estancia sea inolvidable!</p>
          
           <NavLink to="/Bookastay" className="btn btn-dark" variant="primary">Book | Reserva</NavLink>
-          <Button id="guidebook" href="https://www.airbnb.com/s/guidebooks?refinement_paths[]=/guidebooks/4275403" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">guidebook | guía</Button>
+          {/* <Button id="guidebook" href="https://www.airbnb.com/s/guidebooks?refinement_paths[]=/guidebooks/4275403" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">guidebook | guía</Button> */}
 
           <hr />
          

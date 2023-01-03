@@ -16,6 +16,8 @@ function BookAStay (){
                 bulk of the card's content.
               </Card.Text> */}
               <Button href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">Book | Reserva</Button>
+              <Button id="guidebook" href="https://www.airbnb.com/s/guidebooks?refinement_paths[]=/guidebooks/4275403" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">guidebook | guía</Button>
+
             </Card.Body>
           </Card>
       </div>
