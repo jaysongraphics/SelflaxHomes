@@ -1,6 +1,7 @@
 
 .App {
   text-align: center;
+  min-height: 100%;
 }
 
 /* .routes{
@@ -8,11 +9,11 @@
 } */
 
 .logoImage{
-  margin: 10px; 
+  margin: 30px;
 }
 
 .navBar ul {
-  margin: 10;
+  margin-top: 20px;
   padding: 0;
   text-transform: uppercase;
 }
@@ -20,6 +21,35 @@
   display: inline-block;
   margin: 0 10px;
 }
+
+
+/* .carouselSlide{
+  width: 300px;
+  height: 250px;
+} */
+.card{
+  /* float: left; */
+  width: 200px;
+  height: 250px;
+  /* margin-left: 300px; */
+}
+
+#carousel{
+  width: 300px;
+  height: 250px;
+}
+
+.carousel {
+  /* width:900px; */
+  /* float: left; */
+  /* height:500px; */
+  margin: auto;
+}
+.card-book{
+  height: 280px;
+  margin: auto;
+}
+
 
 /* .home {
   margin-left: 270px;
@@ -57,9 +87,12 @@
 
 .footer{
   position: absolute;
-  background-color: black;
+  background-color:#e7b7ab;
   bottom: 0;
   width: 100%;
+
+  z-index: 2;
+  /* margin-top: auto; */
   /* height: 2.5rem;     */
 }
 
@@ -67,7 +100,6 @@
   color: white;
   float: right;
 }
-
 
 
 
