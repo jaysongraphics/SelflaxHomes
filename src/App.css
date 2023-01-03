@@ -53,6 +53,7 @@ li {
 }
 
 li a {
+  font-size: 15px;
   display: block;
   color: white;
   text-align: center;
@@ -171,7 +172,9 @@ li {
   color: white;
 }
 
-
+/* #ig-footer{
+  font-size: 10px;
+} */
 
 
 

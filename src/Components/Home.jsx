@@ -9,7 +9,7 @@ function Home (){
       <div className='home'>
           <h4>Welcome to Selflax Homes!</h4>
           <h4>¡Bienvenido a Selflax Homes!</h4>
-          <img className="logoImage" src={img} alt="SelflaxHomes-Logo" width="250" height="260" />
+          {/* <img className="logoImage" src={img} alt="SelflaxHomes-Logo" width="250" height="260" /> */}
           <h6>English</h6>
           <p>Welcome to SelflaxHomes! We are a company that prides ourselves on providing comfortable and welcoming accommodations for travelers and vacationers. When you stay with us, you can expect to feel right at home. Our team is dedicated to ensuring that your stay with us is enjoyable and memorable. Thank you for choosing SelflaxHomes as your home away from home. We look forward to welcoming you and hope you have a wonderful stay with us.</p>
           <h8>Español</h8>
