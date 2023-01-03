@@ -7,7 +7,7 @@ import {Button, Card} from 'react-bootstrap';
 function BookAStay (){
   return (
       <div>
-          <h1>Book your Stay</h1>
+          <h4>Book your Stay | Reserva tu estadia</h4>
           {/* <a href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer">
             <button>La Esperilla</button>
           </a> */}
@@ -35,7 +35,7 @@ function BookAStay (){
                 Some quick example text to build on the card title and make up the
                 bulk of the card's content.
               </Card.Text> */}
-              <Button href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">Book</Button>
+              <Button href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">Book | Reserva</Button>
             </Card.Body>
           </Card>
           

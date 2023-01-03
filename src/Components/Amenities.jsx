@@ -5,7 +5,7 @@ import img3 from '../images/b518046e-3871-4e28-af51-d8fec837ccaa.JPG'
 function Amenities (){
   return (
       <div className='amenities'>
-          <h1>See our Amenities</h1>
+          <h4>See our Amenities | Vea nuestras amenidades</h4>
           <h6>La Esperilla</h6>
           <Carousel className="d-block w-75" fade >
               <Carousel.Item>

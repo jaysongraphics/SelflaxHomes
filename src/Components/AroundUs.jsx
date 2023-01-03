@@ -7,7 +7,7 @@ import map3 from '../images/map3.jpg'
 function AroundUs (){
   return (
       <div>
-          <h1>Explore what's around</h1>
+          <h2>Explore what's around | Explora lo que hay alrededor</h2>
           <img src={map1}  alt="around-map1"  width="400" height="300" />
           <img src={map2}  alt="around-map1"  width="400" height="300" />
           <img src={map3}  alt="around-map1"  width="400" height="300" />
