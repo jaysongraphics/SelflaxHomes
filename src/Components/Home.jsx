@@ -10,7 +10,7 @@ function Home (){
           <h1>Welcome to Selflax Homes!</h1>
           <p>Welcome to SelflaxHomes! We are a company that prides ourselves on providing comfortable and welcoming accommodations for travelers and vacationers. When you stay with us, you can expect to feel right at home. Our team is dedicated to ensuring that your stay with us is enjoyable and memorable. Thank you for choosing SelflaxHomes as your home away from home. We look forward to welcoming you and hope you have a wonderful stay with us.</p>
           <p>¡Bienvenido a SelflaxHomes! Somos una empresa que se enorgullece de brindar alojamiento cómodo y acogedor para viajeros y vacacionistas. Cuando se hospede con nosotros, puede esperar sentirse como en casa. Nuestro equipo está dedicado a garantizar que su estadía con nosotros sea placentera y memorable. Gracias por elegir SelflaxHomes como su hogar lejos del hogar. Esperamos darle la bienvenida y esperamos que tenga una estancia maravillosa con nosotros.</p>
-          <img className="logoImage" src={img} alt="SelflaxHomes-Logo" width="400" height="600" />
+          <img className="logoImage" src={img} alt="SelflaxHomes-Logo" width="300" height="400" />
           <hr />
             <h3>Download Our welcome guide!</h3>
           <div className="welcome-guide">
