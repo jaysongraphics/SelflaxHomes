@@ -2,29 +2,55 @@
   text-align: center;
 }
 
+.routes{
+  text-align: center;
+}
+
 .logoImage{
-  padding: 10px; 
+  margin: 10px; 
+}
+
+.navBar ul {
+  margin: 10;
+  padding: 0;
+  text-transform: uppercase;
+}
+.navBar li {
+  display: block;
+  margin: 0 10px;
 }
 
 .home {
-  margin-left: 270px;
-  float: left;
-}
+  /* margin-left: 270px; */
+  /* float: left; */
+  margin-top: -100px;
+} 
 
-.navBar{
+/* .navBar{
   margin: 0 auto;
   display: flex; 
   justify-content: center;
-}
+} */
 
-ul {
+/* .navBar{
+  margin: 0 auto;
+  display: flex; 
+} */
+
+/* ul {
   list-style-type: none;  
-}
+} */
 
-li {
+/* li {
   margin-left: 10px;
   float: left;
-}
+} */
+
+
+/* li {
+  display: inline-block;
+  margin: 0 10px;
+} */
 
 
 

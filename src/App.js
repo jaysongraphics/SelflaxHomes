@@ -10,8 +10,11 @@ import { Route, Routes, NavLink } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <a href="/"><img className="logoImage" src={logo} alt="SelflaxHomes-Logo" width="200" height="180" /></a>
+    <>
+      <div className="App">
+        <a href="/"><img className="logoImage" src={logo} alt="SelflaxHomes-Logo" width="200" height="180" /></a>
+        {/* <Footer /> */}
+      </div>
       <nav className="navBar">
         <ul>
           <li>
@@ -29,15 +32,15 @@ function App() {
           {/* <a href="https://www.google.com/">Shop Seflax</a> */}
         </ul>
       </nav>
-
-      <Routes>
-        <Route exact path="/" index element={<Home />} />
-        <Route path="/Bookastay" element={<BookAStay />} />
-        <Route path="/Images" element={<Images />} />
-        <Route path="/AroundUs" element={<AroundUs />} />
-      </Routes>
-      {/* <Footer /> */}
-    </div>
+      <div className="routes">
+        <Routes>
+          <Route exact path="/" index element={<Home />} />
+          <Route path="/Bookastay" element={<BookAStay />} />
+          <Route path="/Images" element={<Images />} />
+          <Route path="/AroundUs" element={<AroundUs />} />
+        </Routes>
+      </div>
+    </>
   );
 }
 
