@@ -6,10 +6,6 @@
   flex-direction: column;
 }
 
-/* .routes{
-  text-align: center;
-} */
-
 .logoImage{
   margin: 30px;
 }
@@ -39,25 +35,26 @@ li a:hover {
   background-color: #111;
 } */
 
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: rgb(0, 0, 0);
-  padding: 8px;
-
+  /* padding: 8px; */
 }
 
 li {
-  /* float: left; */
-  display: inline;
-  /* margin: 0; */
+  float: left;
+  display: block;
+  /* display: inline; */
+  margin: 0;
   border-right:1px solid #e7b7ab;
 }
 
 li a {
-  /* display: block; */
+  display: block;
   color: white;
   text-align: center;
   padding: 12px 8px;
