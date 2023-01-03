@@ -18,8 +18,8 @@ function App() {
         <Route exact path="/" index element={<Home />} />
         <Route path="/Bookastay" element={<BookAStay />} />
         <Route path="/Images" element={<Images />} />
-        <Route path="/AroundUs" element={<AroundUs />} />
         <Route path="/Amenities" element={<Amenities />} />
+        <Route path="/AroundUs" element={<AroundUs />} />
       </Routes>
       <Footer />
     </div>

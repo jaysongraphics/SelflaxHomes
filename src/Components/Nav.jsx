@@ -16,10 +16,10 @@ function Nav (){
               <NavLink to="/Images">Images</NavLink>
             </li>
             <li>
-              <NavLink to="/AroundUs">Around Us</NavLink>
+              <NavLink to="/Amenities">Amenities</NavLink>
             </li>
             <li>
-              <NavLink to="/Amenities">Amenities</NavLink>
+              <NavLink to="/AroundUs">Around Us</NavLink>
             </li>
             {/* <a href="https://www.google.com/">Shop Seflax</a> */}
           </ul>

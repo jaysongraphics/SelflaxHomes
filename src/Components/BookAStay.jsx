@@ -8,7 +8,7 @@ function BookAStay (){
           <h4>Book your Stay</h4>
           <h4>Reserva tu estadia</h4>
           <Card className="card-book">
-            <Card.Img variant="top" src={img1}  alt="img-esperilla"  width="286" height="180" />
+            <a href="https://www.airbnb.com/rooms/730371438862634538"target="_blank" rel="noreferrer"><Card.Img variant="top" src={img1}  alt="img-esperilla"  width="286" height="180" /></a>
             <Card.Body>
               <Card.Title>La Esperilla</Card.Title>
               {/* <Card.Text>
