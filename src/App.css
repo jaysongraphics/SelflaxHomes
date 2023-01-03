@@ -11,32 +11,6 @@
   margin-bottom: 8px;
 }
 
-/* .navBar ul {
-  margin-top: 20px;
-  padding: 0;
-  text-transform: uppercase;
-} */
-
-/* .navBar li {
-  display: inline;
-  margin: 3px;
-  padding: 14px 16px;
-} */
-
-/* ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
-} */
-
-/* 
-li a:hover {
-  background-color: #111;
-} */
-
-
 ul {
   list-style-type: none;
   margin: 30;
@@ -77,23 +51,28 @@ li:last-child {
 
 .welcome-guide{
   /* display: inline-block; */
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 } 
 
 .amenities{
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
+.aroun-us{
+  margin-bottom: 10px;
+}
 
 .images-caro{
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
+.book-a-stay{
+  margin-bottom: 10px;
+}
 
-/* .carouselSlide{
-  width: 300px;
-  height: 250px;
-} */
+#guidebook{
+  margin: 10px;
+}
 .card{
   /* float: left; */
   width: 200px;
@@ -118,43 +97,6 @@ li:last-child {
   margin: auto;
 }
 
-
-/* .home {
-  margin-left: 270px;
-  float: left;
-  margin-top: -100px;
-}  */
-
-/* .navBar{ */
-  /* width: 50px; */
-  /* height: 500px; */
-  /* margin: 0 auto;
-  display: flex; 
-  justify-content: center; */
-/* } */
-
-/* .navBar{
-  margin: 0 auto;
-  display: flex; 
-} */
-
-/* ul {
-  list-style-type: none;  
-} */
-
-/* li {
-  margin-left: 10px;
-  float: left;
-} */
-
-/* 
-li {
-  display: inline-block;
-  margin: 0 10px;
-} */
-
-
-
 .footer{
   background-color:#e7b7ab;
   margin-top: auto;
@@ -172,48 +114,3 @@ li {
   font-size: 10px;
   color: white;
 }
-
-/* #ig-footer{
-  font-size: 10px;
-} */
-
-
-
-
-
-/* /////////////////// */
-
-/* .App-logo {
-  height: 40vmin;
-  pointer-events: none;
-} */
-
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
-
-/* .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-} */
-
-/* .App-link {
-  color: #61dafb;
-} */
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */

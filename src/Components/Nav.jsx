@@ -1,27 +1,25 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom'
 
-
-
 function Nav (){
   return (
       <div>
           <nav className="navBar">
           <ul>
             <li>
-              <NavLink to="/" style={{ textDecoration: 'none' }}>Home</NavLink>
+              <NavLink to="/">Home</NavLink>
             </li>
             <li>
-              <NavLink to="/Bookastay" style={{ textDecoration: 'none' }}>Book A Stay</NavLink>
+              <NavLink to="/Bookastay">Book A Stay</NavLink>
             </li>
             <li>
-              <NavLink to="/Images" style={{ textDecoration: 'none' }}>Images</NavLink>
+              <NavLink to="/Images">Images</NavLink>
             </li>
             <li>
-              <NavLink to="/AroundUs" style={{ textDecoration: 'none' }}>Around Us</NavLink>
+              <NavLink to="/AroundUs">Around Us</NavLink>
             </li>
             <li>
-              <NavLink to="/Amenities" style={{ textDecoration: 'none' }}>Amenities</NavLink>
+              <NavLink to="/Amenities">Amenities</NavLink>
             </li>
             {/* <a href="https://www.google.com/">Shop Seflax</a> */}
           </ul>
