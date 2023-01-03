@@ -14,23 +14,68 @@
   margin: 30px;
 }
 
-.navBar ul {
+/* .navBar ul {
   margin-top: 20px;
   padding: 0;
-  /* text-transform: uppercase; */
-}
-.navBar li {
+  text-transform: uppercase;
+} */
+
+/* .navBar li {
   display: inline;
-  margin: 0 5px;
-}
+  margin: 3px;
+  padding: 14px 16px;
+} */
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+} */
+
 /* 
+li a:hover {
+  background-color: #111;
+} */
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
-} */
+  background-color: rgb(0, 0, 0);
+  padding: 8px;
+
+}
+
+li {
+  /* float: left; */
+  display: inline;
+  /* margin: 0; */
+  border-right:1px solid #e7b7ab;
+}
+
+li a {
+  /* display: block; */
+  color: white;
+  text-align: center;
+  padding: 12px 8px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(74, 74, 74);
+}
+
+.active {
+  background-color: #e7b7ab;
+}
+
+
+
+
+
 
 /* .carouselSlide{
   width: 300px;

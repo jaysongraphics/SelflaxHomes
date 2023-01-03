@@ -8,9 +8,9 @@ function AroundUs (){
   return (
       <div>
           <h1>Explore what's around</h1>
-          <img src={map1}  alt="around-map1"  width="286" height="180" />
-          <img src={map2}  alt="around-map1"  width="286" height="180" />
-          <img src={map3}  alt="around-map1"  width="286" height="180" />
+          <img src={map1}  alt="around-map1"  width="550" height="400" />
+          <img src={map2}  alt="around-map1"  width="550" height="400" />
+          <img src={map3}  alt="around-map1"  width="550" height="400" />
           <div>
           <h1>English</h1>
             <p>
