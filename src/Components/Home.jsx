@@ -11,9 +11,9 @@ function Home (){
           <h4>¡Bienvenido a Selflax Homes!</h4>
           {/* <img className="logoImage" src={img} alt="SelflaxHomes-Logo" width="250" height="260" /> */}
           <h6>English</h6>
-          <p>Welcome to SelflaxHomes! We are a company that prides ourselves in providing comfortable and welcoming accommodations for travelers and vacationers. When you stay with us, you can expect to feel right at home. Our team is dedicated to ensuring that your stay with us is enjoyable and memorable. Thank you for choosing SelflaxHomes as your home away from home. We look forward to welcoming you and hope you have a wonderful stay with us.</p>
+          <p>Welcome to SelflaxHomes! We are excited to host you and ensure your stay is comfortable and memorable. Our team is dedicated to making your time with us exceptional. Thank you for choosing us as your home away from home. We look forward to welcoming you and making your stay unforgettable!</p>
           <h8>Español</h8>
-          <p>¡Bienvenido a SelflaxHomes! Somos una empresa que se enorgullece de brindar alojamiento cómodo y acogedor para viajeros y vacacionistas. Cuando se hospede con nosotros, puede esperar sentirse como en casa. Nuestro equipo está dedicado a garantizar que su estadía con nosotros sea placentera y memorable. Gracias por elegir SelflaxHomes como su hogar lejos del hogar. Esperamos darle la bienvenida y esperamos que tenga una estancia maravillosa con nosotros.</p>
+          <p>¡Bienvenido a SelflaxHomes! Nos complace recibirlo y asegurarnos de que su estadía sea cómoda y memorable. Nuestro equipo está dedicado a hacer que su tiempo con nosotros sea excepcional. Gracias por elegirnos como su hogar lejos del hogar. ¡Esperamos darle la bienvenida y hacer que su estancia sea inolvidable!</p>
           <hr />
             <h6>Download Our welcome guide!</h6>
             <h6>¡Descarga nuestra guía de bienvenida!</h6>
