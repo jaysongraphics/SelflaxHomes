@@ -1,7 +1,7 @@
 
 .App {
   text-align: center;
-  min-height: 100%;
+  /* min-height: 100%; */
 }
 
 /* .routes{
@@ -18,10 +18,18 @@
   text-transform: uppercase;
 }
 .navBar li {
-  display: inline-block;
+  display: inline;
   margin: 0 10px;
+  
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
 /* .carouselSlide{
   width: 300px;
@@ -57,11 +65,13 @@
   margin-top: -100px;
 }  */
 
-/* .navBar{
-  margin: 0 auto;
+/* .navBar{ */
+  /* width: 50px; */
+  /* height: 500px; */
+  /* margin: 0 auto;
   display: flex; 
-  justify-content: center;
-} */
+  justify-content: center; */
+/* } */
 
 /* .navBar{
   margin: 0 auto;
@@ -77,8 +87,8 @@
   float: left;
 } */
 
-
-/* li {
+/* 
+li {
   display: inline-block;
   margin: 0 10px;
 } */
@@ -86,13 +96,12 @@
 
 
 .footer{
-  position: absolute;
+  position: fixed;
   background-color:#e7b7ab;
   bottom: 0;
   width: 100%;
-
   z-index: 2;
-  /* margin-top: auto; */
+  margin-top: auto;
   /* height: 2.5rem;     */
 }
 

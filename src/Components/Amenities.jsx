@@ -7,7 +7,7 @@ function Amenities (){
       <div>
           <h1>See our Amenities</h1>
           <h6>La Esperilla</h6>
-          <Carousel className="d-block w-25" fade >
+          <Carousel className="d-block w-50" fade >
               <Carousel.Item>
                 <img
                   className="d-block w-100"

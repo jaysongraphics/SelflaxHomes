@@ -9,7 +9,7 @@ function Images (){
     <div>
       <h1>Images</h1>
       <h6>La Esperilla</h6>
-          <Carousel className="d-block w-25">
+          <Carousel className="d-block w-50">
               <Carousel.Item>
                 <img
                   className="d-block w-100"

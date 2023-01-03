@@ -12,9 +12,9 @@ function Home (){
           <div>
             <h1>Download Our welcome guide!</h1>
               <h1>English</h1>
-              <Link to={pdf1} target="_blank" download>Download</Link>
+              <Link to={pdf1} target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">Download</Link>
               <h1>Español</h1>
-              <Link to={pdf2} target="_blank" download>Download</Link>
+              <Link to={pdf2} target="_blank" rel="noreferrer" className="btn btn-dark" variant="primary">Download</Link>
           </div>
       </div>
   )

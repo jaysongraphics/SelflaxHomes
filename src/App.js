@@ -16,7 +16,7 @@ function App() {
         <nav className="navBar">
           <ul>
             <li>
-              <NavLink type="button" className="btn btn-dark" to="/" style={{ textDecoration: 'none' }}>Home</NavLink>
+              <NavLink to="/" style={{ textDecoration: 'none' }}>Home</NavLink>
             </li>
             <li>
               <NavLink type="button" className="btn btn-dark" to="/Bookastay" style={{ textDecoration: 'none' }}>Book A Stay</NavLink>
