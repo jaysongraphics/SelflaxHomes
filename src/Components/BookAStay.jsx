@@ -7,7 +7,8 @@ import {Button, Card} from 'react-bootstrap';
 function BookAStay (){
   return (
       <div>
-          <h4>Book your Stay | Reserva tu estadia</h4>
+          <h4>Book your Stay</h4>
+          <h4>Reserva tu estadia</h4>
           {/* <a href="https://www.airbnb.com/h/selflaxhomes-esperilla" target="_blank" rel="noreferrer">
             <button>La Esperilla</button>
           </a> */}

@@ -7,7 +7,8 @@ import Carousel from 'react-bootstrap/Carousel';
 function Images (){
   return (
     <div className='images-caro'>
-      <h4>Images | Imágenes</h4>
+      <h4>Images</h4>
+      <h4>Imágenes</h4>
       <h6>La Esperilla</h6>
           <Carousel className="d-block w-75">
               <Carousel.Item>
