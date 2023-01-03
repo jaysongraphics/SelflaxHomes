@@ -4,7 +4,7 @@ import img3 from '../images/b518046e-3871-4e28-af51-d8fec837ccaa.JPG'
 
 function Amenities (){
   return (
-      <div>
+      <div className='amenities'>
           <h1>See our Amenities</h1>
           <h6>La Esperilla</h6>
           <Carousel className="d-block w-50" fade >
@@ -45,7 +45,6 @@ function Amenities (){
          </Carousel>
       </div>
   )
-
 };
 
 
