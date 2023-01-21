@@ -1,8 +1,22 @@
 import React from 'react';
-import img1 from '../images/8ca021dd-0d0d-403e-8dc4-cd0c54720301.JPG'
-import img2 from '../images/3686fd5a-ae1a-4edd-a51d-0405b672887d.JPG'
-import img3 from '../images/b518046e-3871-4e28-af51-d8fec837ccaa.JPG'
 import Carousel from 'react-bootstrap/Carousel';
+import img1 from '../images/3.jpg'
+import img2 from '../images/4.jpg'
+import img3 from '../images/35.jpg'
+import img4 from '../images/31.jpg'
+import img5 from '../images/36.jpg'
+import img6 from '../images/37.jpg'
+import img7 from '../images/22.jpg'
+import img8 from '../images/26.jpg'
+import img9 from '../images/17.jpg'
+import img10 from '../images/19.jpg'
+import img11 from '../images/28.jpg'
+import img12 from '../images/29.jpg'
+import img13 from '../images/30.jpg'
+import img14 from '../images/25.jpg'
+import img15 from '../images/16.jpg'
+import img16 from '../images/5.jpg'
+import img17 from '../images/6.jpg'
 
 function Images (){
   return (
@@ -17,8 +31,9 @@ function Images (){
                   src={img1}
                   alt="First slide"
                 />
-                <Carousel.Caption>
-                  <p>Bedroom</p>
+             
+              <Carousel.Caption>
+                {/* <p>Bedroom</p> */}
                 </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
@@ -28,8 +43,8 @@ function Images (){
                   alt="Second slide"
                 />
 
-                <Carousel.Caption>
-                  <p>Living room</p>
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
                 </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
@@ -39,8 +54,198 @@ function Images (){
                   alt="Third slide"
                 />
 
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img4}
+                  alt="Third slide"
+                />
+
+
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img5}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img6}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img7}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img8}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img9}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img10}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img11}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img12}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img13}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img14}
+                  alt="Third slide"
+                />
+
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img17}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img15}
+                  alt="Third slide"
+                />
+
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img16}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img9}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img9}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                {/* <p>Living room</p> */}
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img9}
+                  alt="Third slide"
+                />
+
                 <Carousel.Caption>
-                  <p>Living room</p>
+                  {/* <p>Living room</p> */}
                 </Carousel.Caption>
               </Carousel.Item>
           </Carousel>

@@ -1,5 +1,5 @@
 import React from 'react';
-import img1 from '../images/3686fd5a-ae1a-4edd-a51d-0405b672887d.JPG'
+import img1 from '../images/36.jpg'
 import {Button, Card} from 'react-bootstrap';
 
 function BookAStay (){

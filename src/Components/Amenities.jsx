@@ -1,6 +1,15 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import img3 from '../images/b518046e-3871-4e28-af51-d8fec837ccaa.JPG'
+import img1 from '../images/11.jpg'
+import img2 from '../images/10.jpg'
+import img3 from '../images/7.jpg'
+import img4 from '../images/8.jpg'
+import img5 from '../images/9.jpg'
+import img6 from '../images/44.jpg'
+import img7 from '../images/4.jpg'
+import img8 from '../images/12.jpg'
+import img9 from '../images/13.jpg'
+import img10 from '../images/41.jpg'
 
 function Amenities (){
   return (
@@ -12,22 +21,22 @@ function Amenities (){
               <Carousel.Item>
                 <img
                   className="d-block w-100"
-                  src={img3}
+                  src={img1}
                   alt="First slide"
                 />
-                <Carousel.Caption>
-                  <p>Living room</p>
-                </Carousel.Caption>
+              <Carousel.Caption>
+                <p>Pool Area</p>
+              </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
                 <img
                   className="d-block w-100"
-                  src={img3}
+                  src={img2}
                   alt="Second slide"
                 />
 
                 <Carousel.Caption>
-                  <p>Living room</p>
+                  <p>Pool Area</p>
                 </Carousel.Caption>
               </Carousel.Item>
               <Carousel.Item>
@@ -37,8 +46,85 @@ function Amenities (){
                   alt="Third slide"
                 />
 
+              <Carousel.Caption>
+                  <p>GYM</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img4}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                  <p>GYM</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img5}
+                  alt="Third slide"
+                />
+
+              <Carousel.Caption>
+                  <p>BBQ Area</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img6}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                  <p>BBQ Area</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img7}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                  <p>Entrance ramp</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img8}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                  <p>Business Center</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img9}
+                  alt="Third slide"
+                />
+
+<Carousel.Caption>
+                  <p>Business Center</p>
+                </Carousel.Caption>
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src={img10}
+                  alt="Third slide"
+                />
+
                 <Carousel.Caption>
-                  <p>Living room</p>
+                  <p>Garage</p>
                 </Carousel.Caption>
               </Carousel.Item>
          </Carousel>
